@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-            GradeCreditRow(),
+            GradeCreditRow()
           ],
         ),
       ),
